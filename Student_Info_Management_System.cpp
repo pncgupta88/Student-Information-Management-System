@@ -206,7 +206,7 @@ int main()
         cout << "Enter 2 to get student details by student's roll number." << endl;
         cout << "Enter 3 to display total number of students in tenth class." << endl;
         cout << "Enter 4 to display total number of boys, girls and others." << endl;
-        cout << "Enter 5 to edit age by name." << endl;
+        cout << "Enter 5 to edit age by roll number." << endl;
         cout << "Enter 6 to exit program." << endl<< endl;;
         cout << "Enter your next choice: ";             
         cin >> next_Choice;
